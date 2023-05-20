@@ -1,0 +1,2 @@
+LIBRARY ColorPop
+EXPORTS MakeGrayA
